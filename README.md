@@ -5,13 +5,13 @@
 </div>
 <div align="center">
     <a href=""><img src="https://img.shields.io/badge/SWE-RESUME-6FDA44"></a>
-    <a href="https://www.linkedin.com/in/Mostafamohsen92/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin"></a>
-    <a href="https://leetcode.com/Mostafamohsen92/"><img src="https://img.shields.io/badge/LeetCode-070707?logo=leetcode"></a>
-    <a href="https://www.hackerrank.com/profile/Mostafamohsen92"><img src="https://img.shields.io/badge/HackerRank-000000?logo=hackerrank"></a>
-    <a href="https://www.upwork.com/freelancers/sweahmedosman"><img src="https://img.shields.io/badge/Upwork-494949?logo=upwork"></a>
-    <a href="https://stackoverflow.com/users/11837259/Mostafamohsen92"><img src="https://img.shields.io/badge/Stack Overflow-f48024?logo=stackoverflow&logoColor=white"></a>
-    <a href="https://t.me/Mostafamohsen92"><img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram"></a>
-    <a href="https://x.com/Mostafamohsen92"><img src="https://img.shields.io/badge/X-000000?logo=x"></a>
+    <a href="https://www.linkedin.com/in/##Mostafamohsen92#/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin"></a>
+    <a href="https://leetcode.com/##Mostafamohsen92#/"><img src="https://img.shields.io/badge/LeetCode-070707?logo=leetcode"></a>
+    <a href="https://www.hackerrank.com/profile/##Mostafamohsen92#"><img src="https://img.shields.io/badge/HackerRank-000000?logo=hackerrank"></a>
+    <a href="https://www.upwork.com/freelancers/##Mostafamohsen92#"><img src="https://img.shields.io/badge/Upwork-494949?logo=upwork"></a>
+    <a href="https://stackoverflow.com/users/11837259/##Mostafamohsen92#"><img src="https://img.shields.io/badge/Stack Overflow-f48024?logo=stackoverflow&logoColor=white"></a>
+    <a href="https://t.me/##Mostafamohsen92#"><img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram"></a>
+    <a href="https://x.com/##Mostafamohsen92#"><img src="https://img.shields.io/badge/X-000000?logo=x"></a>
 </div>
 
 
