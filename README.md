@@ -1,5 +1,4 @@
-<div align="center">
-    <img src="GitHub.png" height="200">
+
 </div>
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?color=6FDA44&size=40&center=true&vCenter=true&width=1000&height=50&lines=Hi+👋+I+am+Mostafa;Software+Engineer;Freelancer+.NET+Engineer;">
