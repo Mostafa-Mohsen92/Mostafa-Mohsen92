@@ -1,7 +1,7 @@
 
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=6FDA44&size=40&center=true&vCenter=true&width=1000&height=50&lines=Hi+👋+I+am+Mostafa+Mohsen;Software+Engineer;Freelancer+;">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=6FDA44&size=40&center=true&vCenter=true&width=1000&height=50&lines=Hi+👋+I+am+Mostafa+Mohsen;Software+and+Civil+Engineer;Freelancer+;">
 </div>
 <div align="center">
     <a href=""><img src="https://img.shields.io/badge/SWE-RESUME-6FDA44"></a>
