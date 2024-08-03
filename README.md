@@ -18,26 +18,21 @@
 
 <h1 align="center">Summary</h1>
 
-* **One year of experience in web application development using .NET Core Framework.**
-
-* **Proficient in Object-Oriented Programming, Data Structures, Algorithms, Design Patterns, and Problem Solving.**
-
-* **Eager learner passionate about advancing skills in .NET, Back-End technologies, DevOps, and emerging trends like Web 3, Blockchain, Linux, and Cloud Computing.**
-
-* **Detail-oriented and committed engineer known for on-time delivery of high-quality products. Self-motivated and quick learner.**
-
-* 👨‍🏫 **Currently studying at**: <a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue"></a>
-
-* 🔭 **Looking to collaborate on**: [JobWebsites](https://gist.github.com/AhmedFathyDev/950f28910c9a3804c8d39d8d5f042916) and [FreelanceWebsites](https://gist.github.com/AhmedFathyDev/0861a0a926bfd5c1b0e85dd827c1efe9).
-
-<!-- * 🔭 **Looking to collaborate on**: [LeetCode-Solutions](https://github.com/AhmedFathyDev/LeetCode-Solutions), [HackerRank-Solutions](https://github.com/AhmedFathyDev/HackerRank-Solutions), and [Codeforces-Solutions](https://github.com/AhmedFathyDev/Codeforces-Solutions).
-
-* 🔭 **I’m currently working on**: [BookStore.MVC](https://github.com/AhmedFathyDev/BookStore.MVC).
-* 🔭 **Looking to collaborate on**: [Fathy.Common](https://github.com/AhmedFathyDev/Fathy.Common).
-* 🌱 **Currently learning**: `Object-Oriented`.
-* 💬 **Ask me about**: `.NET`.
-* 📫 **How to reach me**: Catch and follow me from the `above links 👆`, in addition to `follow me here`.
-* 🤔 **Currently open to work**: [RESUME](https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/RESUME.pdf). -->
+🚀 About Me
+🎓 Currently learning front-end programming at Almdrasa.com
+🐍 Studying Python at Octucode
+💼 Aspiring front-end programmer eager to create stunning and user-friendly web applications
+🛠️ Skills
+Front-End Development
+HTML5 CSS3 JavaScript
+React
+Git GitHub VS Code
+📚 Current Learning Goals
+Master advanced JavaScript concepts
+Dive deeper into React for building dynamic web applications
+Explore backend development with Python and Django
+📫 How to Reach Me
+Email
 
 
 <h1 align="center">Skills</h1>
